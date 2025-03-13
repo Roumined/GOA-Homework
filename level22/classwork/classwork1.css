@@ -1,0 +1,31 @@
+.mrbeast {
+    color: red;
+    background-color: black;
+}
+
+.zuka {
+    font-size: 30px;
+    color: yellow;
+    background-color: aqua;
+}
+
+.speed {
+    font-weight: 700;
+    font-size: 20px;
+    background-color: aquamarine;
+    color: rgb(34, 34, 34);
+}
+
+.ronaldo {
+    font-weight: 600;
+    font-size: 15px;
+    background-color: chocolate;
+    color: firebrick;
+}
+
+.messi {
+    font-weight: 600;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: gold;
+}
