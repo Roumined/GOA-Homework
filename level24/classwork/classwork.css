@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.header .logo-img {
+    height: 60px;
+}
+
+.main {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
